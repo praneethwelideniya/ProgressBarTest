@@ -1,5 +1,5 @@
+import ProgressBarGroup from "@/Screens/ProgressBarGroup";
 import "./App.css";
-import ProgressBarGroup from "./ProgressBarGroup";
 
 function App() {
   return (
